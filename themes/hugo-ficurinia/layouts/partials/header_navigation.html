@@ -1,0 +1,17 @@
+<nav>
+    {{ if (.Site.Params.mobileHamburgerNav | default false) }}
+        <input type="checkbox" id="main-nav-toggler" />
+    {{ end }}
+    <ul id="main-nav">
+        <li><a href="/">{{ i18n "home" }}</a></li>
+        {{ if (.Site.Params.showPostsLink | default true) }}
+            <li><a href="/humor/humor">{{ "Humor" }}</a></li>
+        {{ end }}
+        {{ if (.Site.Params.showTags | default true) }}
+            <li><a href="/tags/">{{ i18n "tags" }}</a></li>
+        {{ end }}
+        {{ if and (.Site.Params.searchMenuLink | default false) (.Site.Params.enableSearch | default true) }}
+            <li><a href="/search/">{{ i18n "search" }}</a></li>
+        {{ end }}
+    </ul>
+</nav>
