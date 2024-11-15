@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Fictions on David McGee&#39;s Freeloading Webpage</title>
+    <link>//localhost:1313/fiction/</link>
+    <description>Recent content in Fictions on David McGee&#39;s Freeloading Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>David McGee - [CC BY - NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Mon, 16 Sep 2024 15:14:55 -0500</lastBuildDate><atom:link href="//localhost:1313/fiction/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.png</icon>
+    
+  </channel>
+</rss>

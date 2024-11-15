@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tag1 on AlvinMcGee.xyz</title>
+    <link>//localhost:1313/tags/tag1/</link>
+    <description>Recent content in Tag1 on AlvinMcGee.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Alvin McGee - [CC BY - NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)</copyright><atom:link href="//localhost:1313/tags/tag1/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+  </channel>
+</rss>

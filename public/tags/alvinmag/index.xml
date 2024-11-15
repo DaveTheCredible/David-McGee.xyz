@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Alvinmag on AlvinMcGee.xyz</title>
+    <link>//localhost:1313/tags/alvinmag/</link>
+    <description>Recent content in Alvinmag on AlvinMcGee.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Alvin McGee - [CC BY - NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)</copyright>
+    <lastBuildDate>Wed, 28 Aug 2024 23:47:42 -0500</lastBuildDate><atom:link href="//localhost:1313/tags/alvinmag/index.xml" rel="self" type="application/rss+xml" /><icon>//localhost:1313/logo.svg</icon>
+    
+    
+    <item>
+      <title>The Alvinmag</title>
+      <link>//localhost:1313/blog/</link>
+      <pubDate>Wed, 28 Aug 2024 23:47:42 -0500</pubDate>
+      
+      <guid>//localhost:1313/blog/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>I Fell for the Thinkpad Meme so You Don&#39;t Have to</title>
+      <link>//localhost:1313/blog/thinkpad/</link>
+      <pubDate>Wed, 28 Aug 2024 23:43:16 -0500</pubDate>
+      
+      <guid>//localhost:1313/blog/thinkpad/</guid>
+      <description><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>In certain corners of the internet, the aged ThinkPad has attained cult status. People say they&rsquo;re cheap computers which are wonderfully and fearfully made, that they can take a beating, and that they&rsquo;re incredibly customizable. They&rsquo;re for REAL MEN doing REAL WORK (while wearing their cat ears and pink thigh highs, of course). While I haven&rsquo;t spend much time customizing the poor thing and have never possessed any interest in car ears nor pink thigh highs, I have been using a thirteen year old ThinkPad T420 for college work the past academic year.</p>
+<p>Last Summer, I was about to start a year of community college in preparation for attending a real university. The only problem was that my laptop had just gone the way of the dodo. I didn&rsquo;t need anything fancy, just something that could take notes, write papers, access the internet, and do a bit of light programming. I also wanted something that was cheap, because I am cheap. After some research, I came upon a refurbished ThinkPad T420 on eBay which cost $180. It was significantly cheaper than most of the budget laptops I looked at, typically had better specs, and looked significantly less likely to fall apart should I sneeze on it. So, after thinking it over, I bought the darn thing.</p>
+<p>[insert picture of the thinkpad]</p>
+<p>For the most part, its specs aren&rsquo;t that different than they would have been when it hit the shelves: it has an intel i5-2520M CPU and eight gigs of RAM, along with two USB and HDMI ports, a VGA connector, an SD card reader, and an Ethernet port. Also included were a fingerprint reader and a ThinkLight, though I&rsquo;ve never had much occasion to use either of them. The refurbisher had, however, replaced the hard drive with a 1 terabyte SSD, which I&rsquo;m happy to have.</p>
+<p>Visually, it looks fine. Parts of it look slightly scuffed, but it&rsquo;s not noticeable and I don&rsquo;t mind. It has one of the older, pre - chiclet ThinkPad keyboards, complete with all the tactile pleasure and clickity - clackity noise one&rsquo;s heart could desire. It didn&rsquo;t come with the trackpoint, but I had no desire for one and the seller made that clear. The screen quality, however, is noticeably dated. The resolution isn&rsquo;t problematic - it&rsquo;s 1600x900 pixels. But, the colors are a little bit off, maybe a more purplish and desaturated than they are appear on a high - quality monitor. If I remember correctly, it has a TN screen rather than an IPS <a href="https://www.youtube.com/watch?v=CfpAeMhD4J4&amp;t=110s">(which you should always go for if possible when buying a ThinkPad).</a></p>
+<p>[insert picture comparing the ThinkPad&rsquo;s monitor to my PC monitors]</p>
+<h2 id="initial-impressions-and-modifications">Initial Impressions and Modifications</h2>
+<p>The laptop initially shipped with Windows 10. It took a painfully long time to boot, and then was very sluggish. How unusual this is for Windows 10, I don&rsquo;t know; I haven&rsquo;t used Windows as a daily driver for the better part of four years, but my recollection is that it&rsquo;s often a bit slow on a first boot up. Either way, I immediately replaced Windows with EndeavourOS and installed a minimal window manager (at first this was Qtile, but I later switched to AwesomeWM and have used it since).</p>
+<p>The performance increase was immediate and obvious. It still boots up a slowly, usually for a minute or two. And when it gets to my window manager, it isn&rsquo;t buttery smooth like my newfangled desktop PC is. Programs usually take a little bit to boot up (the long end is around ten seconds, maybe more for some more resource - intensive applications). But, once they&rsquo;ve on, they usually perform just fine. While not buttery smooth, it still runs laps around the sad school computers (though I&rsquo;m not sure if this reflects positively on my laptop or negatively on how the local government chose to spend our tax dollars).</p>
+<h2 id="daily-use">Daily Use</h2>
+<p>As I said previously, I bought my Thinkpad in order to do schoolwork. For me, at least this semester, this mainly meant taking notes, writing papers, doing a variety of work online, and sometimes doing a bit of coding.</p>
+<p>I completed the first and fourth of these tasks using neovim, mainly because I have it installed on all of my Linux machines and like it a lot. I did the second with Microsoft&rsquo;s online office suite, though I suppose I could have done the same with Google Docs, LibreOffice, or perhaps a typesetting program. Perhaps that would&rsquo;ve been better, perhaps not.</p>
+<p>The third use case was the only one which I had any worries about. Community college websites, as every one of their beleaguered students know, are a hellscape of bloat, dead links, and gratuitous suffering. I wasn&rsquo;t sure how my twelve year old laptop would do with them, especially on slow public wifi. But, I was pleasantly surprised. I regularly open up twenty, thirty, or forty tabs on it, and it runs just fine &ndash; even when a solid half of those are bloated college webpages!</p>
+<h2 id="other-uses-gaming-youtube-videos-photo-editing">Other uses (gaming, YouTube videos, photo editing)</h2>
+<p>Usually, if I want to do something with a computer other than the things I&rsquo;ve just listed, I use a more modern desktop computer I built about a year ago. But, I&rsquo;ve sometimes tried to use it for other things, either out of curiosity or boredom.</p>
+<p>This computer obviously isn&rsquo;t cut out to play AAA games, or really most modern 3D games (I doubt it would play nice with <em>Valheim</em> or <em>Leathal Company</em>). But, I&rsquo;ve installed some graphically undemanding games on it, mostly to have something to do on airplanes. It seems <em>Celeste</em>, <em>Shovel Knight</em>, <em>FTL,</em> <em>In Other Waters</em>, and <em>Warsim</em> run great on it! So do older 2D games like the elder <em>Heroes of Might and Magic</em> games and <em>Rise of Nations.</em> But, even older 3D games struggle it; <em>Portal</em> is playable, but quite jittery. <em>Portal II</em> is worse, it&rsquo;s laggy to the point that I wouldn&rsquo;t enjoy playing it.</p>
+<p>It also does a fine job playing back videos, though the odd screen colors might hamper the experience for some people.</p>
+<p>Photo editing, however, is a different story entirely. You can very well work with small pictures or make memes on it, but if you&rsquo;re interested in editing big pictures or making digital art, this laptop is probably not for you. I attempted to edit a few large pictures using GIMP, but that resulted in stuttering and occasional crashes.</p>
+<hr>
+<p>On the whole, I like my ThinkPad. It&rsquo;s clearly not the best computer in the world, but it does what I need it to do and it was good for my money. If you want to use it for something graphically intensive, you probably want something else. But, if your use cases are similar to mine, it&rsquo;ll be fine.</p>
+]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>
