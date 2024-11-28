@@ -1,4 +1,4 @@
-baseURL = "davidmcgee.xyz"
+baseURL = "https://davidmcgee.xyz"
 theme = "hugo-ficurinia"
 title = "David McGee's Freeloading Webpage"
 languageCode = "en"
