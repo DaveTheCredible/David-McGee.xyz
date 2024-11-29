@@ -14,7 +14,7 @@ I don't mean watered down, trendy masochism - the kind where you just want to pr
 To mend this gaping hole in the online landscape, I've begun curating a series of articles with the goal of helping you live the most unpleasant, painful, and downright miserable life you possibly can, all with the help of some of the world's greatest givers of terrible advice.
 
 ---
-[Assorted Awful Advice Part Seven: Applying to College](aaa/7)
+[Assorted Awful Advice Part Seven: Applying to College](/humor/aaa/7)
 
 [Assorted Awful Advice Part Six: Gomer's Guide to Christian Homeschooling](/humor/aaa/6)
 
