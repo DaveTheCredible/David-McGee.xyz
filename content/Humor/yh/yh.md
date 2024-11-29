@@ -20,7 +20,7 @@ showdate: false
 
 "Your honor, I am innocent by reason of insanity. You would be too if you had to live with him."
 
-"But your honor, I only purchased those five hundred pounds of fertilizer because it tastes so damn good!"
+"Your honor, I won't pretend I didn't buy five hundred pounds of fertilizer. But you've gotta believe me, it was only because the stuff tastes so damn good!"
 
 "Your honor, I assure you I was only driving one way."
 
@@ -28,7 +28,7 @@ showdate: false
 
 "Your honor, I'm not a paranoid schizophrenic. The voices made that much clear!"
 
-"Oh no, your honor, the person on that ID card is clearly me. I was just heavier then. And had a beard. And was five years older."
+"Oh no, your honor, the person on that ID is clearly me. I was just heavier then. And had a beard. And was five years older."
 
 "No, your honor, I'm not a lone shark. It's merely coincidence that all of my customers end up breaking their knee caps."
 
