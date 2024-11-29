@@ -8,4 +8,4 @@ showdate: false
 
 Hello World! My name is David, and this is my small corner of the internet. 
 
-I'm an American geoscience student, but I enjoy writing and fictional cartography in my spare time. At the moment, I've only uploaded a few pieces of comedy and satire onto this website, but I'll probably upload fiction and essays in the future.
+I'm an American geoscience student, but I enjoy writing and fictional cartography in my spare time. Right now, this website only houses comedy and satire of variable quality, but I'll probably post other things in the future (most likely essays or fiction).
