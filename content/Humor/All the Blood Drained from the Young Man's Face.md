@@ -28,7 +28,7 @@ All the blood flowed to the young man's face.
 
 Frank was wrong.
 
-"I'm rejecting God because he gave me Peyroine's disease."
+He was rejecting God because God gave him me Peyroine's disease.
 
 ---
 
@@ -78,17 +78,7 @@ All the blood drained from the young anemic's face.
 
 She was caught.
 
-She was rejecting Jehovah because she didn't want to die. 
-
----
-
-"You're raising all of these objections because you wear prophylactics. Am I right?"
-
-All the blood drained from the old man's face.
-
-He was caught.
-
-He was rejecting God because he didn't like God's morality.
+She was rejecting Jehovah because she'd prefer to stay alive. 
 
 ---
 
