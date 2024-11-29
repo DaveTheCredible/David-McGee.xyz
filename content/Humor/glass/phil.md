@@ -49,6 +49,6 @@ Our intern sighs and asks "Okay, y'all think the glass is half empty?"
 
 * Christopher Hitchens says: The glass is a totalitarian autocracy -- a vitreous North Korea. It is ultimate wickedness and ultimate stupidity.
 
-* R.C. Sproul says: What's wrong with you people? You just keep standing there, calling this thing a glass, but you know perfectly well that it's a hip flask. Everyone out there, despite their protestations to the contrary, knows that this is a hip flask. There are no glass - believers, only hip - flask haters and liars. [steps back, looks at our intern very intensely, basks in his own eloquence and moral superiority]
+* R.C. Sproul says: What's wrong with you people?!?! You just keep standing there, calling this glass half full, but you know perfectly well that it's half empty. Everyone out there, despite their protestations to the contrary, knows this glass is half full. There are no half - glassers, only full glass haters and liars. [steps back, looks at our intern very intensely, basks in his own eloquence and moral superiority]
 
 * An Instagram commenter says: The GLASS is the HYPRONIC frequency!! You KEEP trying to MEASURE the GLASS. EAT SHIT AND DIE!! It has AURA INNUMERABLE!!
