@@ -3,6 +3,7 @@ title: "Assorted Awful Advice"
 date: "2024-10-08T16:56:38-06:00"
 tags: ['humor']
 comments: false
+showDate: false
 ---
 
 *This page is written by Wilhelm Spurtendorf, lover of all things painful and frustrating.*
