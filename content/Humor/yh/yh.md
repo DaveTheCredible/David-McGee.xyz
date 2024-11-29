@@ -32,6 +32,4 @@ showdate: false
 
 "No, your honor, I'm not a lone shark. It's merely coincidence that all of my customers end up breaking their knee caps."
 
-"Your honor, I know I stole that car, but you have to understand there were extenuating circumstances. Without it I would have been fifteen minutes late to Taylor Swift!"
-
 "Your honor, it wasn't underage drinking. That child is 21 months old!"
