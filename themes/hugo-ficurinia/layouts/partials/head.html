@@ -1,7 +1,7 @@
 <head>
     {{ if .Site.Params.forceRedirect }}
         <script>
-            if (location.host != new URL("{{ .Site.BaseURL }}").host) location.href = "{{ .Site.BaseURL }}"
+            if (location.host != new URL("{{ .Site.BaseURL }}").host) location.href = "{{ .Site.BaseURL }}/"
         </script>
     {{ end }}
     <meta name="robots" content="noai, noimageai">
