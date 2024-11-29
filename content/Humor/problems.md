@@ -12,7 +12,7 @@ The homeschool co - op I attended in High School had many idiosyncrasies, but on
 
 But my friend Jack and I, being smartasses of a theatrical bent, chose to tell an increasingly ridiculous story with him as the protagonist. At first Jack was stealing his mother's wedding ring & pirating Nintendo games, but soon he was convincing the passerby to worship Jimmy Wales and interacting with conspiracy theories.
 
-I haven't the damnedest idea why we were allowed to continue, especially as they began to not - so subtly criticise the conspiracy theories my teachers believed. It probably reflects an admirable ability to laugh at themselves.
+I haven't the damnedest idea why we were allowed to continue, especially as they began to not - so subtly criticise the conservative subculture to which our teachers belonged. It probably reflects an admirable ability to laugh at themselves.
 
 I can't claim they're the best jokes ever written -- a couple of them make me cringe now. But, I still find most of them funny, and I'm proud to have written them in high school. A few people wanted an archive of them, and part of me felt like sharing. So, here we are.
 
