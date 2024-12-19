@@ -16,7 +16,7 @@ For a while, the Christian apologist Frank Turek would occasionally repost this 
 
 ![All the blood drained from the young man's face](/blood.png)
 
-Whether this story is real or apocryphal, Turek is making a *very serious* point. Many young people abandon Christianity, or at least its historic positions about sexual morality, on account of ingrained horniness.
+Whether this story is real or apocryphal, Turek is making a *very serious* point. Many young people abandon Christianity, or at least its historic positions about sexual morality, on account of the Horny.
 
 But, I confess I've always found the Tweet a little hilarious. And I think it deserves to be parodied and dramatically read until Kingdom come. I've gotten us started, but don't let that stop you from pitching in!
 
@@ -42,13 +42,14 @@ He was rejecting God because he couldn't stand God's sound system.
 
 ---
 
-"You're raising all of these objections because you want to keep your foreskin. Am I right?
 
-All the blood drained from the young man's face.
+"You're raising all of these objections because you're sleeping with your girlfriend. Am I right?"
 
-He was caught.
+Both the eyes rolled in the young man's face.
 
-He was rejecting Allah because he didn't like Allah's morality.
+He was pissed.
+
+"Frank, we've been through this. I'm still asexual."
 
 ---
 
@@ -78,15 +79,16 @@ All the blood drained from the young anemic's face.
 
 She was caught.
 
-She was rejecting Jehovah because she'd prefer to stay alive. 
+She was rejecting Jehovah because she didn't want to die. 
 
 ---
 
-"You're raising all of these objections because you're sleeping with your girlfriend. Am I right?"
+"You're raising all of these objections because you want to keep your foreskin. Am I right?
 
-Both the eyes rolled in the young man's face.
+All the blood drained from the young man's face.
 
-He was pissed.
+He was caught.
 
-"Frank, we've been through this. I'm still asexual."
+He was rejecting Allah because he didn't like Allah's morality.
 
+---
